@@ -350,7 +350,7 @@ Upgrade from cheapest and most visible to most expensive and least visible:
     R1 (L1/L2 alpha) first. R2 (dropout rate) second.
 
 
-================================================================================
+
   MODEL USED for narrator of reasoning
 ================================================================================
 
