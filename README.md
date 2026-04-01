@@ -80,7 +80,7 @@ a subject + verb + object structure that makes a falsifiable assertion.
                     runs what it can, flags result as directional only
 
 
-================================================================================
+
   DNCR REASONING PROTOCOL — FULL REFERENCE; 4 layers
 ================================================================================
 
